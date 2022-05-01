@@ -265,7 +265,7 @@ nav .sep{
 /* Accueil */
 
 #jumbotron {
-  background: #1f4559 url('ressources/Accueuil.jpg') no-repeat center center;
+  background: #1f4559 url('Ressources/Accueuil.jpg') no-repeat center center;
   background-size: cover;
 }
 #jumbotron a{
